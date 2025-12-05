@@ -78,7 +78,8 @@ Execute the programs and publish them.
 
 
 
-<img width="1050" height="727" alt="Screenshot 2025-12-05 103801" src="https://github.com/user-attachments/assets/e1a4c432-c468-4f84-80a1-a566b207d9f7" />
+
+![vellore_fort](https://github.com/user-attachments/assets/08c9deb5-3ca9-4294-a331-ad22e1791db7)
 
 
 
