@@ -74,9 +74,11 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
+<img width="1050" height="727" alt="Screenshot 2025-12-05 103801" src="https://github.com/user-attachments/assets/38706301-d9ae-4434-8fac-f3d120c9bb5e" />
 
 
 
+<img width="1050" height="727" alt="Screenshot 2025-12-05 103801" src="https://github.com/user-attachments/assets/e1a4c432-c468-4f84-80a1-a566b207d9f7" />
 
 
 
